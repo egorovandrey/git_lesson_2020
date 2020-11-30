@@ -3,6 +3,7 @@ def main():
     print('And I change it every day')
     print('Another line')
     print('Внешняя строка')
-
+    print('+редактор')
+    
 
 # 1111
